@@ -1,4 +1,17 @@
-#intro, #flight-details-display {
+#intro, #flight-details-display, #airplane-menu, #new-flight-form {
     text-align: center;
     color: 'blue'
+}
+
+.menu-image{
+    width: 250px;
+    margin: 10px;
+}
+
+#flight-image{
+    width: 400px;
+}
+
+#new-flight-form input{
+    margin: 10px;
 }
