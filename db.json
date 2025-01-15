@@ -2,11 +2,13 @@
     "flights": [
         {
             "id": 1,
-            "airline": "Emirates"
+            "airline": "Emirates",
+            "image":""
         },
         {
             "id": 2,
-            "airline": "Delta"
+            "airline": "Delta",
+            "image":""
         }
     ]
 }
